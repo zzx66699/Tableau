@@ -16,6 +16,10 @@ You can also choose to hide the viz
 也可以在工作表里更改 比如年龄在按照数字无法显示时 可以试试改成字符串  
 <img width="264" alt="image" src="https://user-images.githubusercontent.com/105503216/182283878-375d7ae5-67f6-4352-83a6-c7edecdd9a61.png">  
 
+## 3. Link data
+<img width="527" alt="image" src="https://user-images.githubusercontent.com/105503216/204306029-c3783877-2334-4c07-b0a9-47c61f2a7426.png">
+拖进第一个表 记得双击！！ 再拖进第二个表  
+<img width="636" alt="image" src="https://user-images.githubusercontent.com/105503216/180468102-2d17556f-7e79-467a-8381-7d535410e5fa.png">  
 
 ## 2. 数据处理
 ### 2.1 拆分
@@ -37,9 +41,6 @@ You can also choose to hide the viz
 显示隐藏  
 <img width="270" alt="image" src="https://user-images.githubusercontent.com/105503216/180014492-f0edddb2-9097-4466-a811-5c55e0456953.png">
 
-### 数据集合并
-拖进第一个表 记得双击！！ 再拖进第二个表  
-<img width="636" alt="image" src="https://user-images.githubusercontent.com/105503216/180468102-2d17556f-7e79-467a-8381-7d535410e5fa.png">  
 
 ### 转置
 <img width="970" alt="image" src="https://user-images.githubusercontent.com/105503216/183048671-93568614-9039-4926-bdc8-59dac41e639d.png">   
