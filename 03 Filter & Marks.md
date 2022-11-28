@@ -1,6 +1,7 @@
-# Chapter2 Filter & Marks
+# Chapter3 Filter & Marks
 
 ## 1. Filter
+<img width="438" alt="image" src="https://user-images.githubusercontent.com/105503216/204289876-2f42bc4f-55db-4589-aa88-a5413b69150a.png">
 
 ## 2. Tool bar
 ### 2.1 Rectangle
