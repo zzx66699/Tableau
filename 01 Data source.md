@@ -1,4 +1,4 @@
-# Chapter1 数据处理+基础操作  
+# Chapter1 Data source
 Tableau is a business intelligence and analytics platform that you can use online to help people see, understand, and make decisions with data.  
 [visualizations that are more specialized in Tableau](https://www.coursera.org/learn/visualize-data/supplement/bDdpK/visualizations-in-spreadsheets-and-tableau)
 
@@ -10,8 +10,15 @@ You can see all your data viz from my profile
 You can also choose to hide the viz  
 <img width="371" alt="image" src="https://user-images.githubusercontent.com/105503216/204139937-40224bd0-93d5-4d6a-a222-a874d5b6c74a.png">  
 
-## 数据处理
-### 拆分
+## 2. Change data type
+<img width="637" alt="image" src="https://user-images.githubusercontent.com/105503216/204191267-e43424cc-6d87-41ca-adb9-6a3ac6ca329d.png">
+<img width="244" alt="image" src="https://user-images.githubusercontent.com/105503216/180016202-b3bcaabb-7159-4459-8d8c-488ae7cfea66.png">  
+也可以在工作表里更改 比如年龄在按照数字无法显示时 可以试试改成字符串  
+<img width="264" alt="image" src="https://user-images.githubusercontent.com/105503216/182283878-375d7ae5-67f6-4352-83a6-c7edecdd9a61.png">  
+
+
+## 2. 数据处理
+### 2.1 拆分
 <img width="408" alt="image" src="https://user-images.githubusercontent.com/105503216/180010517-571b1809-a818-4c56-b9b0-62e3aa0981d8.png"> <img width="441" alt="image" src="https://user-images.githubusercontent.com/105503216/180011127-64eba537-de90-4aa2-a0d7-51c898b1e97f.png">  
 自动把重复的东西给去掉 同时应该根据需要更改列名  
 <img width="132" alt="截屏2022-07-20 下午10 52 19" src="https://user-images.githubusercontent.com/105503216/180013828-5df64553-5329-4ace-90d0-c58e94fc8280.png"> <img width="150" alt="image" src="https://user-images.githubusercontent.com/105503216/180012967-5297131d-5a6d-4152-89b6-281c1fa6abb6.png">  
@@ -23,10 +30,6 @@ You can also choose to hide the viz
 <img width="326" alt="image" src="https://user-images.githubusercontent.com/105503216/180015366-214d46b3-bba8-41ca-bbb2-38a368f379f8.png">
 <img width="117" alt="image" src="https://user-images.githubusercontent.com/105503216/180015591-7581b169-49b4-4879-b6b2-d2beb8390804.png">
 
-### 格式转换
-<img width="244" alt="image" src="https://user-images.githubusercontent.com/105503216/180016202-b3bcaabb-7159-4459-8d8c-488ae7cfea66.png">  
-也可以在工作表里更改 比如年龄在按照数字无法显示时 可以试试改成字符串  
-<img width="264" alt="image" src="https://user-images.githubusercontent.com/105503216/182283878-375d7ae5-67f6-4352-83a6-c7edecdd9a61.png">  
 
 ### 隐藏
 <img width="366" alt="image" src="https://user-images.githubusercontent.com/105503216/180016454-92c43b43-ae77-423d-8f90-76810419cd7d.png">  
@@ -50,9 +53,6 @@ You can also choose to hide the viz
 在灰色区域右击  
 <img width="279" alt="image" src="https://user-images.githubusercontent.com/105503216/180128125-53a052e8-ebfd-47d8-8486-eba66a4dab79.png">
 
-### 维度和度量的转化
-直接拖过去就可以 注意维度是定性的 度量是定量的  
-<img width="208" alt="截屏2022-07-21 上午11 43 35" src="https://user-images.githubusercontent.com/105503216/180125656-e8f15e40-dafd-46a5-a4da-1c6003f9bfa1.png">
 
 ### 调整顺序
 <img width="123" alt="image" src="https://user-images.githubusercontent.com/105503216/182294543-8ad12d70-57cd-46f6-a1dd-e3b18c3d98d3.png">   
