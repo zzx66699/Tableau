@@ -19,7 +19,8 @@ You can also choose to hide the viz
 ## 3. Link data
 <img width="527" alt="image" src="https://user-images.githubusercontent.com/105503216/204306029-c3783877-2334-4c07-b0a9-47c61f2a7426.png">
 拖进第一个表 记得双击！！ 再拖进第二个表  
-<img width="636" alt="image" src="https://user-images.githubusercontent.com/105503216/180468102-2d17556f-7e79-467a-8381-7d535410e5fa.png">  
+<img width="239" alt="image" src="https://user-images.githubusercontent.com/105503216/204307321-701d1e82-80ab-4025-9e18-4791a13e5856.png"><img width="334" alt="image" src="https://user-images.githubusercontent.com/105503216/204307433-1d13ad59-eeeb-40b5-8c5e-804a67ea1c21.png">
+<img width="584" alt="image" src="https://user-images.githubusercontent.com/105503216/204307875-f33c9e92-2018-4561-87be-875f514f3625.png">
 
 ## 2. 数据处理
 ### 2.1 拆分
